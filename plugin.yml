@@ -1,0 +1,13 @@
+name: Mini-Clicks-Ping-Menu-Stats
+main: Menu\Bastard
+api: 3.0.0
+version: 0.1
+author: DragonBastard
+description: StatsMenu
+commands:
+  stats:
+    description: Open Stats Book!
+    usage: /stats
+  onoroff:
+    description: Open Setting Menu!
+    usage: /onoroff
